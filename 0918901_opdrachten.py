@@ -1,22 +1,30 @@
 import os
 
+print "Naam:     Reuben Domacasse"
+print "Stunr:    0918901"
+print "Klas:     ICTVT1C"
+print "Datum:    12-09-2017"
+
 print "--------------------------------------------------------------------------------------------------------------------"
 print "Opdracht 1"
 print ""
-os.system("python 0918901_opdracht_01_[1].py arg1 arg2 arg3")
+os.system("python 0918901_opdracht_01_[1].py")
 print ""
+
 print "--------------------------------------------------------------------------------------------------------------------"
 print "Opdracht 2"
 print ""
-os.system("python 0918901_opdracht_02_[1].py arg1 arg2 arg3")
+os.system("python 0918901_opdracht_02_[1].py")
 print ""
 print "--------------------------------------------------------------------------------------------------------------------"
+
 print "Opdracht 3"
 print ""
-os.system("python 0918901_opdracht_03_[1].py arg1 arg2 arg3")
+os.system("python 0918901_opdracht_03_[1].py")
 print ""
 print "--------------------------------------------------------------------------------------------------------------------"
+
 print "Opdracht 4"
 print ""
-os.system("python 0918901_opdracht_04_[1].py arg1 arg2 arg3")
+os.system("python 0918901_opdracht_04_[1].py")
 print "--------------------------------------------------------------------------------------------------------------------"
